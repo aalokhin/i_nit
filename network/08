@@ -1,0 +1,5 @@
+Amazon
+
+#ping slash16.org OR host -ta slash16.org
+#whois ip from previous output (52.84.197.139)
+#OR nslookup slash16.org followed by nslookup ip (ip from previous output

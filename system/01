@@ -1,0 +1,4 @@
+#file path: /etc/issue
+#contents of the file: Debian GNU/Linux 9 \n \l
+
+cat /etc/issue

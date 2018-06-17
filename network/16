@@ -1,0 +1,2 @@
+we need to add 46.19.122.85 before intra.42.fr in a file /etc/hosts
+we do not have required permission but if we did we would use: echo "46.19.122.85 intra.42.fr" >> /etc/hosts
